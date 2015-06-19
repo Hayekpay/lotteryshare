@@ -1,0 +1,9 @@
+Building Lotteryshare
+
+See doc/readme-qt.rst for instructions on building Lotteryshare QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Lotteryshare.
+
+See doc/build-*.txt for instructions on building Lotteryshared,
+the intended-for-services, no-graphical-interface, reference
+implementation of Lotteryshare.
